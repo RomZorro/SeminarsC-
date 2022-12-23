@@ -1,0 +1,15 @@
+C:\Users\Roman\разное\EDUCATION\GB\4 C#\2 C021222\PracticeC#\Pract002\obj\Debug\net7.0\Pract002.csproj.AssemblyReference.cache
+C:\Users\Roman\разное\EDUCATION\GB\4 C#\2 C021222\PracticeC#\Pract002\obj\Debug\net7.0\Pract002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roman\разное\EDUCATION\GB\4 C#\2 C021222\PracticeC#\Pract002\obj\Debug\net7.0\Pract002.AssemblyInfoInputs.cache
+C:\Users\Roman\разное\EDUCATION\GB\4 C#\2 C021222\PracticeC#\Pract002\obj\Debug\net7.0\Pract002.AssemblyInfo.cs
+C:\Users\Roman\разное\EDUCATION\GB\4 C#\2 C021222\PracticeC#\Pract002\obj\Debug\net7.0\Pract002.csproj.CoreCompileInputs.cache
+C:\Users\Roman\разное\EDUCATION\GB\4 C#\2 C021222\PracticeC#\Pract002\bin\Debug\net7.0\Pract002.exe
+C:\Users\Roman\разное\EDUCATION\GB\4 C#\2 C021222\PracticeC#\Pract002\bin\Debug\net7.0\Pract002.deps.json
+C:\Users\Roman\разное\EDUCATION\GB\4 C#\2 C021222\PracticeC#\Pract002\bin\Debug\net7.0\Pract002.runtimeconfig.json
+C:\Users\Roman\разное\EDUCATION\GB\4 C#\2 C021222\PracticeC#\Pract002\bin\Debug\net7.0\Pract002.dll
+C:\Users\Roman\разное\EDUCATION\GB\4 C#\2 C021222\PracticeC#\Pract002\bin\Debug\net7.0\Pract002.pdb
+C:\Users\Roman\разное\EDUCATION\GB\4 C#\2 C021222\PracticeC#\Pract002\obj\Debug\net7.0\Pract002.dll
+C:\Users\Roman\разное\EDUCATION\GB\4 C#\2 C021222\PracticeC#\Pract002\obj\Debug\net7.0\refint\Pract002.dll
+C:\Users\Roman\разное\EDUCATION\GB\4 C#\2 C021222\PracticeC#\Pract002\obj\Debug\net7.0\Pract002.pdb
+C:\Users\Roman\разное\EDUCATION\GB\4 C#\2 C021222\PracticeC#\Pract002\obj\Debug\net7.0\Pract002.genruntimeconfig.cache
+C:\Users\Roman\разное\EDUCATION\GB\4 C#\2 C021222\PracticeC#\Pract002\obj\Debug\net7.0\ref\Pract002.dll

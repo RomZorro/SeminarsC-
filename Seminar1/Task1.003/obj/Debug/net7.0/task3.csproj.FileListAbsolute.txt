@@ -1,0 +1,5 @@
+C:\Users\Roman\разное\EDUCATION\GB\4 Знакомство с языками\1 С291122\Seminar1\task3\obj\Debug\net7.0\task3.csproj.AssemblyReference.cache
+C:\Users\Roman\разное\EDUCATION\GB\4 Знакомство с языками\1 С291122\Seminar1\task3\obj\Debug\net7.0\task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roman\разное\EDUCATION\GB\4 Знакомство с языками\1 С291122\Seminar1\task3\obj\Debug\net7.0\task3.AssemblyInfoInputs.cache
+C:\Users\Roman\разное\EDUCATION\GB\4 Знакомство с языками\1 С291122\Seminar1\task3\obj\Debug\net7.0\task3.AssemblyInfo.cs
+C:\Users\Roman\разное\EDUCATION\GB\4 Знакомство с языками\1 С291122\Seminar1\task3\obj\Debug\net7.0\task3.csproj.CoreCompileInputs.cache

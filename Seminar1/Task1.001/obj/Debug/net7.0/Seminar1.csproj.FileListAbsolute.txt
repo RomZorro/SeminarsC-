@@ -1,0 +1,15 @@
+C:\Users\Roman\разное\EDUCATION\GB\4 Знакомство с языками\1 С291122\Seminar1\obj\Debug\net7.0\Seminar1.csproj.AssemblyReference.cache
+C:\Users\Roman\разное\EDUCATION\GB\4 Знакомство с языками\1 С291122\Seminar1\obj\Debug\net7.0\Seminar1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roman\разное\EDUCATION\GB\4 Знакомство с языками\1 С291122\Seminar1\obj\Debug\net7.0\Seminar1.AssemblyInfoInputs.cache
+C:\Users\Roman\разное\EDUCATION\GB\4 Знакомство с языками\1 С291122\Seminar1\obj\Debug\net7.0\Seminar1.AssemblyInfo.cs
+C:\Users\Roman\разное\EDUCATION\GB\4 Знакомство с языками\1 С291122\Seminar1\obj\Debug\net7.0\Seminar1.csproj.CoreCompileInputs.cache
+C:\Users\Roman\разное\EDUCATION\GB\4 Знакомство с языками\1 С291122\Seminar1\bin\Debug\net7.0\Seminar1.exe
+C:\Users\Roman\разное\EDUCATION\GB\4 Знакомство с языками\1 С291122\Seminar1\bin\Debug\net7.0\Seminar1.deps.json
+C:\Users\Roman\разное\EDUCATION\GB\4 Знакомство с языками\1 С291122\Seminar1\bin\Debug\net7.0\Seminar1.runtimeconfig.json
+C:\Users\Roman\разное\EDUCATION\GB\4 Знакомство с языками\1 С291122\Seminar1\bin\Debug\net7.0\Seminar1.dll
+C:\Users\Roman\разное\EDUCATION\GB\4 Знакомство с языками\1 С291122\Seminar1\bin\Debug\net7.0\Seminar1.pdb
+C:\Users\Roman\разное\EDUCATION\GB\4 Знакомство с языками\1 С291122\Seminar1\obj\Debug\net7.0\Seminar1.dll
+C:\Users\Roman\разное\EDUCATION\GB\4 Знакомство с языками\1 С291122\Seminar1\obj\Debug\net7.0\refint\Seminar1.dll
+C:\Users\Roman\разное\EDUCATION\GB\4 Знакомство с языками\1 С291122\Seminar1\obj\Debug\net7.0\Seminar1.pdb
+C:\Users\Roman\разное\EDUCATION\GB\4 Знакомство с языками\1 С291122\Seminar1\obj\Debug\net7.0\Seminar1.genruntimeconfig.cache
+C:\Users\Roman\разное\EDUCATION\GB\4 Знакомство с языками\1 С291122\Seminar1\obj\Debug\net7.0\ref\Seminar1.dll

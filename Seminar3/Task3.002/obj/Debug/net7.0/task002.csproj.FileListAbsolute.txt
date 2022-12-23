@@ -1,0 +1,30 @@
+C:\Users\Roman\разное\EDUCATION\GB\4 C#\3 С061222\Practice003C#\task002\obj\Debug\net7.0\task002.csproj.AssemblyReference.cache
+C:\Users\Roman\разное\EDUCATION\GB\4 C#\3 С061222\Practice003C#\task002\obj\Debug\net7.0\task002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roman\разное\EDUCATION\GB\4 C#\3 С061222\Practice003C#\task002\obj\Debug\net7.0\task002.AssemblyInfoInputs.cache
+C:\Users\Roman\разное\EDUCATION\GB\4 C#\3 С061222\Practice003C#\task002\obj\Debug\net7.0\task002.AssemblyInfo.cs
+C:\Users\Roman\разное\EDUCATION\GB\4 C#\3 С061222\Practice003C#\task002\obj\Debug\net7.0\task002.csproj.CoreCompileInputs.cache
+C:\Users\Roman\разное\EDUCATION\GB\4 C#\3 С061222\Practice003C#\task002\bin\Debug\net7.0\task002.exe
+C:\Users\Roman\разное\EDUCATION\GB\4 C#\3 С061222\Practice003C#\task002\bin\Debug\net7.0\task002.deps.json
+C:\Users\Roman\разное\EDUCATION\GB\4 C#\3 С061222\Practice003C#\task002\bin\Debug\net7.0\task002.runtimeconfig.json
+C:\Users\Roman\разное\EDUCATION\GB\4 C#\3 С061222\Practice003C#\task002\bin\Debug\net7.0\task002.dll
+C:\Users\Roman\разное\EDUCATION\GB\4 C#\3 С061222\Practice003C#\task002\bin\Debug\net7.0\task002.pdb
+C:\Users\Roman\разное\EDUCATION\GB\4 C#\3 С061222\Practice003C#\task002\obj\Debug\net7.0\task002.dll
+C:\Users\Roman\разное\EDUCATION\GB\4 C#\3 С061222\Practice003C#\task002\obj\Debug\net7.0\refint\task002.dll
+C:\Users\Roman\разное\EDUCATION\GB\4 C#\3 С061222\Practice003C#\task002\obj\Debug\net7.0\task002.pdb
+C:\Users\Roman\разное\EDUCATION\GB\4 C#\3 С061222\Practice003C#\task002\obj\Debug\net7.0\task002.genruntimeconfig.cache
+C:\Users\Roman\разное\EDUCATION\GB\4 C#\3 С061222\Practice003C#\task002\obj\Debug\net7.0\ref\task002.dll
+C:\Users\Roman\разное\EDUCATION\GB\4 C#\SeminarC#\Task3.002\bin\Debug\net7.0\task002.exe
+C:\Users\Roman\разное\EDUCATION\GB\4 C#\SeminarC#\Task3.002\bin\Debug\net7.0\task002.deps.json
+C:\Users\Roman\разное\EDUCATION\GB\4 C#\SeminarC#\Task3.002\bin\Debug\net7.0\task002.runtimeconfig.json
+C:\Users\Roman\разное\EDUCATION\GB\4 C#\SeminarC#\Task3.002\bin\Debug\net7.0\task002.dll
+C:\Users\Roman\разное\EDUCATION\GB\4 C#\SeminarC#\Task3.002\bin\Debug\net7.0\task002.pdb
+C:\Users\Roman\разное\EDUCATION\GB\4 C#\SeminarC#\Task3.002\obj\Debug\net7.0\task002.csproj.AssemblyReference.cache
+C:\Users\Roman\разное\EDUCATION\GB\4 C#\SeminarC#\Task3.002\obj\Debug\net7.0\task002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roman\разное\EDUCATION\GB\4 C#\SeminarC#\Task3.002\obj\Debug\net7.0\task002.AssemblyInfoInputs.cache
+C:\Users\Roman\разное\EDUCATION\GB\4 C#\SeminarC#\Task3.002\obj\Debug\net7.0\task002.AssemblyInfo.cs
+C:\Users\Roman\разное\EDUCATION\GB\4 C#\SeminarC#\Task3.002\obj\Debug\net7.0\task002.csproj.CoreCompileInputs.cache
+C:\Users\Roman\разное\EDUCATION\GB\4 C#\SeminarC#\Task3.002\obj\Debug\net7.0\task002.dll
+C:\Users\Roman\разное\EDUCATION\GB\4 C#\SeminarC#\Task3.002\obj\Debug\net7.0\refint\task002.dll
+C:\Users\Roman\разное\EDUCATION\GB\4 C#\SeminarC#\Task3.002\obj\Debug\net7.0\task002.pdb
+C:\Users\Roman\разное\EDUCATION\GB\4 C#\SeminarC#\Task3.002\obj\Debug\net7.0\task002.genruntimeconfig.cache
+C:\Users\Roman\разное\EDUCATION\GB\4 C#\SeminarC#\Task3.002\obj\Debug\net7.0\ref\task002.dll
